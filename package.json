@@ -1,6 +1,6 @@
 {
   "name": "express-middleware-obfuscator",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "repository": {
@@ -19,7 +19,6 @@
   },
   "homepage": "https://github.com/pagoru/express-middleware-obfuscator#readme",
   "dependencies": {
-    "caller": "latest",
     "google-closure-compiler-js": "latest",
     "javascript-obfuscator": "latest"
   },
