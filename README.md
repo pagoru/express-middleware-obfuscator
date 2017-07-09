@@ -1,4 +1,4 @@
-This package is a express middleware what allows you to obfuscate javascript files and cache them.
+Express middleware plugin for obfuscation purposes.
 
 [![npm version](https://badge.fury.io/js/express-middleware-obfuscator.svg)](https://www.npmjs.com/package/express-middleware-obfuscator) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
